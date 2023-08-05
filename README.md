@@ -2,14 +2,28 @@
 <h1 align="center">hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"> im harby</h1>
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/mahmoud-harby"><img src="https://img.shields.io/badge/harbii_in_LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
-    <a href="https://packagist.org/packages/harby"><img src="https://img.shields.io/badge/LinkedIn-F28D1A?style=for-the-badge&logo=packagist&logoColor=white" alt="LinkedIn Badge"></a>
+    <a href="https://www.linkedin.com/in/mahmoud-harby"> <img src="https://img.shields.io/badge/harbii_in_LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+    <a href="https://packagist.org/packages/harby"     > <img src="https://img.shields.io/badge/packages-F28D1A?style=for-the-badge&logo=packagist&logoColor=white"        alt="packages Badge"></a>
 </p>
 
 ### :man_technologist: &nbsp;About Me :
 
 I am a Senior Backend Developer from Egypt.
 A highly resourceful, innovative, and competent PHP developer with extensive experience in the layout,design and coding of websites specifically in PHP format. Possessing considerable knowledge of the development of web applications and scripts using PHP programming language and MySQL & SQL Server databases. Experienced in developing applications and solutions for a wide range of corporate, charity and public sector clients and having the enthusiasm and ambition to complete projects to the highest standard.
+
+### new project :
+[laraModulesGraphqlAuth](https://github.com/harby-hub/laraModulesGraphqlAuth) : project in laravel Modules Graphql Auth 
+```
+composer create-project harby/laramodulesgraphqlauth laramodulesgraphqlauth
+```
+[laraModulesGraphql](https://github.com/harby-hub/laraModulesGraphql) : project in laravel Modules Graphql
+```
+composer create-project harby/laramodulesgraphql laramodulesgraphql
+```
+[laraModules](https://github.com/harby-hub/laraModules) : project in laravel Modules
+```
+composer create-project harby/laramodules laramodules
+```
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -33,7 +47,7 @@ A highly resourceful, innovative, and competent PHP developer with extensive exp
 
 ---
 
-<h3 align="left">databases</h3>
+<h3 align="center">databases</h3>
 <p align="center">
     <a href="https://www.mysql.com/"       target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"     alt="mysql"    width="40" height="40"/> </a>
     <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"                                          alt="firebase" width="40" height="40"/> </a>
@@ -43,7 +57,7 @@ A highly resourceful, innovative, and competent PHP developer with extensive exp
 
 ---
 
-<h3 align="left">servises</h3>
+<h3 align="center">servises</h3>
 <p align="center">
     <a href="https://www.jenkins.io"    target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg"                               alt="jenkins"    width="40" height="40"/> </a>
     <a href="https://kubernetes.io"     target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg"                         alt="kubernetes" width="40" height="40"/> </a>
@@ -54,7 +68,7 @@ A highly resourceful, innovative, and competent PHP developer with extensive exp
 
 ---
 
-<h3 align="left">testing</h3>
+<h3 align="center">testing</h3>
 <p align="center">
     <a href="https://phpunit.de"  target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/f/f7/PHPUnit_Logo.svg" alt="phpunit" width="40" height="40"/> </a>
     <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg"           alt="mocha"   width="40" height="40"/> </a>
@@ -63,7 +77,7 @@ A highly resourceful, innovative, and competent PHP developer with extensive exp
 
 ---
 
-<h3 align="left">Tools</h3>
+<h3 align="center">Tools</h3>
 <p align="center">
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker"  width="40" height="40"/> </a>
     <a href="https://git-scm.com/"    target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"                                          alt="git"     width="40" height="40"/> </a>
@@ -72,7 +86,7 @@ A highly resourceful, innovative, and competent PHP developer with extensive exp
 
 ---
 
-<h3 align="left">love with</h3>
+<h3 align="center">love with</h3>
 <p align="center">
     <a href="https://suckless.org"               target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Suckless_logo.svg"   alt="Suckless_logo"   width="40" height="40"/> </a>
     <a href="https://voidlinux.org"              target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/02/Void_Linux_logo.svg" alt="Void_Linux_logo" width="40" height="40"/> </a>
@@ -84,6 +98,6 @@ A highly resourceful, innovative, and competent PHP developer with extensive exp
 ---
 
 ### 🔥 &nbsp; My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=harby-hub&theme=dark&background=000000)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=harby-hub&theme=dark&background=000000)](https://git.io/streak-stats) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harby-hub&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harby-hub&layout=pie&theme=vision-friendly-dark)](https://github.com/harby-hub?tab=repositories)
